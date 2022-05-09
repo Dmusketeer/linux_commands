@@ -13,5 +13,51 @@ Ubuntu,centOS,fedora,kali linux,openSUSE,Debian.
 
 
 
+The three popular Desktop distributions of Linux are:
 
+    Ubuntu
+    Linux Mint  
+    Fedora
+
+The four popular Server versions of Linux are:
+
+    Slackware
+    CentOS
+    Debian
+    OpenSUSE
+
+
+The two most popular Virtual Server versions of Linux are:
+
+    Citrix XenServer
+    VMWare
+
+
+## Linux Architecture
+
+The Linux OS has primarily three components:
+
+<b>Kernel</b>: On the core is the Linux kernel that mediates access to the underlying hardware resources such as the CPU via the scheduler, memory, and peripherals.
+
+<b>Shell</b>: Shell (Ex: Bash, cShell, etc.) provides user access to the kernel, command interpretation and the means to load user applications and execute them.
+
+<b>Applications</b>: Applications make up the bulk of the GNU/Linux operating system. These applications provide useful functions for the OS, such as web browsers, windowing systems, language interpreters, email programs, and programming and development tools.
+
+--------------
+
+LINUX has two levels of securities:
+
+- System-level Security: Controlled/Maintained by the system administrator.
+
+- File-level Security: Controlled/Maintained by the owner of the file.
+
+
+## Linux Bash
+
+Bash (Bourne Again SHell) is a Unix shell and a command language interpreter(CLI). A shell is an interface and command line interpreter that executes commands.
+
+#! is called she-bang
+
+how to run exp.sh file -->
+    open terminal and type ./exp.sh
 
