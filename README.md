@@ -1,4 +1,4 @@
-# linux_commands
+# <center>Linux</center>  
 
 
 ## Introduction to Linux
